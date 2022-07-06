@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #2066cf;
+    --primary-color: #1055bb;
     --secondary-color: #f02d2d;
     --dark-color: #292929;
     --white-color: #e7e7e7;
@@ -85,4 +85,8 @@ pre[class*="language-"] {
     white-space: pre-wrap;
     word-break: break-all;
     word-wrap: break-word;
+}
+
+.logoFont, .headerFont {
+    font-family: 'IM Fell English', serif;
 }
