@@ -97,6 +97,10 @@ pre[class*="language-"] {
     color: #292929;
 }
 
+.tableFont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .odd{
     font-weight: 100;
 }
